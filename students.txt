@@ -1,0 +1,154 @@
+[
+    {
+        "name": "abc",
+        "age": 22,
+        "marks": 99.0,
+        "income": 60000.0,
+        "username": "abcc",
+        "password": "123@abc",
+        "status": "Approved",
+        "applied_scholarship": "Minority Scholarship",
+        "applications": [
+            {
+                "scholarship": "Merit Support Scholarship",
+                "status": "Approved"
+            },
+            {
+                "scholarship": "Merit Scholarship",
+                "status": "Approved"
+            },
+            {
+                "scholarship": "Minority Scholarship",
+                "status": "Pending"
+            }
+        ]
+    },
+    {
+        "name": "abc",
+        "age": 21,
+        "marks": 99.0,
+        "income": 50000.0,
+        "username": "abc1",
+        "password": "abc@123",
+        "status": "Approved"
+    },
+    {
+        "name": "siya",
+        "age": 20,
+        "marks": 45.0,
+        "income": 500000000.0,
+        "username": "soya",
+        "password": "sisha",
+        "status": "Rejected"
+    },
+    {
+        "name": "sia",
+        "age": 23,
+        "marks": 60.0,
+        "income": 50000.0,
+        "username": "sia",
+        "password": "sisha",
+        "status": "Approved"
+    },
+    {
+        "name": "shash",
+        "username": "shash",
+        "password": "sisha",
+        "age": 22,
+        "marks": 90.0,
+        "income": 600000.0,
+        "status": "Rejected"
+    },
+    {
+        "name": "darsh",
+        "age": 9,
+        "marks": 12.0,
+        "income": 30000.0,
+        "username": "farsh",
+        "password": "divdarsh",
+        "status": "Rejected",
+        "applied_scholarship": "Minority Scholarship",
+        "applications": [
+            {
+                "scholarship": "Merit Support Scholarship",
+                "status": "Rejected"
+            },
+            {
+                "scholarship": "Merit Scholarship",
+                "status": "Pending"
+            },
+            {
+                "scholarship": "Minority Scholarship",
+                "status": "Rejected"
+            }
+        ]
+    },
+    {
+        "name": "ritiika",
+        "age": 22,
+        "marks": 80.0,
+        "income": 70000.0,
+        "username": "ritarv",
+        "password": "riti",
+        "status": "Pending",
+        "applications": [
+            {
+                "scholarship": "Merit Scholarship",
+                "status": "Approved"
+            },
+            {
+                "scholarship": "Need-Based Scholarship",
+                "status": "Pending"
+            }
+        ],
+        "applied_scholarship": "Need-Based Scholarship"
+    },
+    {
+        "name": "yu",
+        "age": 45,
+        "marks": 65.0,
+        "income": 4565666.0,
+        "username": "you",
+        "password": "youhehe",
+        "status": "Pending",
+        "applications": [
+            {
+                "scholarship": "Merit Scholarship",
+                "status": "Rejected"
+            }
+        ],
+        "applied_scholarship": "Minority Scholarship"
+    },
+    {
+        "name": "arushi",
+        "age": 20,
+        "marks": 70.0,
+        "income": 700000.0,
+        "username": "aru",
+        "password": "rearu",
+        "status": "Pending",
+        "applications": [
+            {
+                "scholarship": "Minority Scholarship",
+                "status": "Rejected"
+            }
+        ],
+        "applied_scholarship": "Minority Scholarship"
+    },
+    {
+        "name": "arishka",
+        "age": 19,
+        "marks": 80.0,
+        "income": 80000.0,
+        "username": "arure",
+        "password": "arure",
+        "status": "Pending",
+        "applications": [
+            {
+                "scholarship": "Merit Scholarship",
+                "status": "Approved"
+            }
+        ],
+        "applied_scholarship": "Merit Scholarship"
+    }
+]
